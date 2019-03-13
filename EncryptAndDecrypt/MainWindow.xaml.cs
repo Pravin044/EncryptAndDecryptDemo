@@ -28,7 +28,7 @@ namespace EncryptAndDecrypt
             txtMacID.Text = GetMacAddress().ToString();
         }
 
-        string hash = "flv@23GkM";
+        string hash = "flv@23GkMP";
         
 
         private void BtnEncrypt_Click(object sender, RoutedEventArgs e)
